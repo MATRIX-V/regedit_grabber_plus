@@ -1,0 +1,5 @@
+Ruta del Registro,Clave,Existe,Valor
+HKEY_LOCAL_MACHINE\\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,ConsentPromptBehaviorAdmin,Existe,5
+HKEY_LOCAL_MACHINE\\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,EnableLUA,Existe,1
+HKEY_LOCAL_MACHINE\\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,INVENTO1,No existe,
+HKEY_LOCAL_MACHINE\\SOFTWARE\Microsoft\Windows\HTML Help,IMTCTC14.CHM,Existe,C:\Windows\IME\IMETC\HELP
